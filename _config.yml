@@ -7,13 +7,13 @@ title: xxx的小站
 subtitle: ''
 description: ''
 keywords:
-author:  {author_name}
+author:  author_name
 language: zh-CN
 timezone: 'Etc/GMT+8'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 'https://{author_name}.github.io/'
+url: 'https://author_name.github.io/'
 root: '/'
 permalink: :title/
 permalink_defaults:
